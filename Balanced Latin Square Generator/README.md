@@ -1,4 +1,4 @@
-#Balanced Latin Square Generator
+# Balanced Latin Square Generator
 
 This algorithm prints any nxn Balanced Latin Square using C++. User input determines the order of the Latin Square and exits the program. 
 
