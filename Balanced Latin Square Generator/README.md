@@ -1,3 +1,5 @@
+#Balanced Latin Square Generator
+
 This algorithm prints any nxn Balanced Latin Square using C++. User input determines the order of the Latin Square and exits the program. 
 
 A Balanced Latin Square is a Latin Square where a certain number X precedes another number Y exactly once when n is even. When n is odd, X will precede Y exactly twice. 
